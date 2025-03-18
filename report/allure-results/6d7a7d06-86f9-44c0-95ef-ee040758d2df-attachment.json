@@ -1,0 +1,24 @@
+{
+  "forecastDate": "20250321",
+  "week": "星期五",
+  "forecastWind": "東至東北風3至4級。",
+  "forecastWeather": "天晴。日間乾燥。",
+  "forecastMaxtemp": {
+    "value": 24,
+    "unit": "C"
+  },
+  "forecastMintemp": {
+    "value": 17,
+    "unit": "C"
+  },
+  "forecastMaxrh": {
+    "value": 75,
+    "unit": "percent"
+  },
+  "forecastMinrh": {
+    "value": 40,
+    "unit": "percent"
+  },
+  "ForecastIcon": 50,
+  "PSR": "低"
+}

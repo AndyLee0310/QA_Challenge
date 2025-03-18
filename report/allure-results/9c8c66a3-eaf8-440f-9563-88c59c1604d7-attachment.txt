@@ -1,0 +1,14 @@
+[32mINFO    [0m root:conftest.py:19 Device detected: CN48E3M00036
+[32mINFO    [0m root:conftest.py:60 Use the device: CN48E3M00036
+[32mINFO    [0m root:conftest.py:12 driver start
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/Disclaimer.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/Privacy policy statement.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/Background location popup.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/New Earth weather service notification.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/Version update notification.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/MyObservatory home page.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/Expand the menu.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/Expand the "Forecast & Warning Services".png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/"9-Day Forecast" default page.png
+[32mINFO    [0m root:common.py:47 Screenshot has been saved to: /Users/andylee/Downloads/QA_Challenge/report/screenshots/The 9th-day weather forecast.png
+[32mINFO    [0m root:conftest.py:20 driver quit
